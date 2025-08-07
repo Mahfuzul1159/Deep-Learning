@@ -1,12 +1,12 @@
-# 🧠 Deep Learning
+# Deep Learning
 
 This repository contains deep learning projects focused on real-world applications such as object detection, image classification, and model integration. The featured project demonstrates a complete pipeline for **Bangladeshi currency detection and recognition** using **YOLOv8** for detection and **ResNet50** for classification.
 
 ---
 
-## 💼 Project: Bangladeshi Currency Recognition (YOLOv8 + ResNet50)
+##  Project: Bangladeshi Currency Recognition (YOLOv8 + ResNet50)
 
-### 📝 Overview
+###  Overview
 
 This project presents a hybrid deep learning system that:
 
@@ -19,7 +19,7 @@ It is designed for **real-time** currency recognition and optimized for performa
 
 ---
 
-## 🚀 Features
+##  Features
 
 ✅ Object Detection using YOLOv8  
 ✅ Image Classification using ResNet50  
@@ -31,7 +31,7 @@ It is designed for **real-time** currency recognition and optimized for performa
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - Python 3.x
 - TensorFlow , Keras
@@ -43,7 +43,7 @@ It is designed for **real-time** currency recognition and optimized for performa
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 Deep-Learning/
@@ -64,19 +64,19 @@ Deep-Learning/
 
 ---
 
-## 🛠️ How to Use
+##  How to Use
 
-### ✅ Open the Notebook
+###  Open the Notebook
 You can run the notebook in **Google Colab** or **Jupyter Notebook**.
 
-📌 Make sure to upload:
+ Make sure to upload:
 - trained YOLOv8 weights (`best.pt`)
-- trained ResNet model (`resnet_taka.h5`)
+- trained ResNet model (`Resnet_SplitDataset.h5`)
 - A test image to predict
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 
 - 📈 Training vs. Validation Accuracy & Loss
 - 📊 Confusion Matrix
@@ -85,13 +85,13 @@ You can run the notebook in **Google Colab** or **Jupyter Notebook**.
 
 ---
 
-## 📷 Example Output
+##  Example Output
 
 > *(Upload an example image here and show bounding box + predicted denomination)*
 
 ---
 
-## 🔮 Future Work
+##  Future Work
 
 - Expand dataset with more currency types and real-world conditions
 - Integrate OCR to recognize serial numbers on notes
@@ -101,7 +101,7 @@ You can run the notebook in **Google Colab** or **Jupyter Notebook**.
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
 - [TensorFlow](https://www.tensorflow.org/)
@@ -111,11 +111,11 @@ You can run the notebook in **Google Colab** or **Jupyter Notebook**.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Sheikh Mahfuzul Islam Rafi**  
-🎓 Student, North Western University, Bangladesh 
-📧 Email: skmahfuzulislamrafi@gmail.com
+    Student, North Western University, Bangladesh 
+    Email: skmahfuzulislamrafi@gmail.com
 
 ---
 
