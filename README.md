@@ -34,12 +34,12 @@ It is designed for **real-time** currency recognition and optimized for performa
 ## 🧰 Technologies Used
 
 - Python 3.x
-- TensorFlow / Keras
+- TensorFlow , Keras
 - OpenCV
 - Ultralytics YOLOv8
 - Matplotlib
 - scikit-learn
-- Google Colab / Jupyter Notebook
+- Google Colab , Jupyter Notebook
 
 ---
 
@@ -66,18 +66,12 @@ Deep-Learning/
 
 ## 🛠️ How to Use
 
-### ✅ Clone the Repository
-```bash
-git clone https://github.com/your-username/Deep-Learning.git
-cd Deep-Learning
-```
-
 ### ✅ Open the Notebook
 You can run the notebook in **Google Colab** or **Jupyter Notebook**.
 
 📌 Make sure to upload:
-- Your trained YOLOv8 weights (`best.pt`)
-- Your trained ResNet model (`resnet_taka.h5`)
+- trained YOLOv8 weights (`best.pt`)
+- trained ResNet model (`resnet_taka.h5`)
 - A test image to predict
 
 ---
@@ -87,7 +81,7 @@ You can run the notebook in **Google Colab** or **Jupyter Notebook**.
 - 📈 Training vs. Validation Accuracy & Loss
 - 📊 Confusion Matrix
 - 📃 Classification Report (Precision, Recall, F1-score)
-- 🧪 ROC & Precision-Recall Curve
+
 
 ---
 
