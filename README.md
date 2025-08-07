@@ -58,7 +58,7 @@ Deep-Learning/
 │       ├── train/
 │       ├── val/
 │       └── test/
-├── models/                         # (Optional) Trained weights and saved models
+├── models/                        #Trained weights and saved models
 └── sample_images/                 # Example input/output predictions
 ```
 
@@ -119,11 +119,9 @@ You can run the notebook in **Google Colab** or **Jupyter Notebook**.
 
 ## 👨‍💻 Author
 
-**Mahfuzul Islam**  
-🎓 Student, North Western University, Khulna  
-🌐 GitHub: [@your-username](https://github.com/your-username)  
-📧 Email: your-email@example.com
+**Sheikh Mahfuzul Islam Rafi**  
+🎓 Student, North Western University, Bangladesh 
+📧 Email: skmahfuzulislamrafi@gmail.com
 
 ---
 
-## ⭐ If you found this helpful, give it a star and share!
